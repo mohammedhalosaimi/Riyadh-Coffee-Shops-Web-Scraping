@@ -1,4 +1,4 @@
-requests==2.20.0
+requests==2.31.0
 selenium==3.14.0
 beautifulsoup4
 numpy==1.11.2
